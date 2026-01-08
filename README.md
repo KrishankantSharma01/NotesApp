@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notes Application
 
 A full-stack web application built with Next.js, MongoDB, and Tailwind CSS that allows users to create, read, update, and delete notes.
@@ -146,3 +147,6 @@ src/
 ## License
 
 This project is open source and available for educational purposes.
+=======
+# Ramyoz-project
+>>>>>>> d8555093b6eeda25c31a5a06859023a3cdc57bc0

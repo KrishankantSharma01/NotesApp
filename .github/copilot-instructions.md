@@ -1,0 +1,5 @@
+- [ ] Project Setup Complete
+- [ ] Dependencies Installed
+- [ ] MongoDB Connection Configured
+- [ ] Development Server Running
+- [ ] All CRUD Operations Tested

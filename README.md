@@ -148,5 +148,5 @@ src/
 
 This project is open source and available for educational purposes.
 =======
-# Ramyoz-project
+# NotesApp
 >>>>>>> d8555093b6eeda25c31a5a06859023a3cdc57bc0
